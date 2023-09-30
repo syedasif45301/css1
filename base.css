@@ -1,0 +1,32 @@
+header{
+    background-color: #f2f2f2;
+    text-align: center;
+    font-size: 24px;
+    text-decoration-color: #333333;
+    line-height: 1.5;
+    border-bottom: 2px;
+    border-style: #999999;
+}
+
+main{
+    background-color: #fff7e6;
+    color:rgb(255, 102, 0);
+    font-size: 18px;
+    font-weight: 200;
+   
+}
+
+p{
+    line-height: 1.6;
+    text-decoration-color:#444444 ;
+    letter-spacing: 1px;
+
+}
+footer{
+    background-color: #f2f2f2;
+    text-align: center;
+    font-size: 14px;
+    text-decoration-color: #333333;
+    line-height: 1.5;
+    border-top: 1px dashed  #999999;
+}
